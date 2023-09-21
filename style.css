@@ -1,0 +1,52 @@
+body{
+    align-content: center;
+    justify-content: center;
+    background-size: cover;
+}
+.superDev{
+    background-color: rgb(212, 153, 52);
+    width: 600px;
+    height: 600px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Dev{
+    background-color: rgb(218, 165, 32);
+    border-radius: 30px;
+    width: 520px;
+    height: 120px;
+    margin-top: 50px
+   
+}
+
+.Grande{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: aliceblue;
+
+}
+.butao{
+    font-size: 20px;
+    color: aliceblue;
+    height: 40px;
+    width: 130px;
+    margin-top: 50px;
+    background-color: rgb(218, 165, 32);
+    border-radius: 20px;
+}
+.Medio{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+.butao2{
+    font-size: 20px;
+    color: aliceblue;
+    height: 30px;
+    width: 90px;
+    
+    background-color: rgb(218, 165, 32);
+    border-radius: 20px;
+}
